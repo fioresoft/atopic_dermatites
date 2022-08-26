@@ -14,3 +14,5 @@ pele)
 que seja absorvente. Obs.: não é o suor que causa dermatite, usando-se água
 duplamente destilada com um tecido não absorvente também gera dermatite (que é,
 lembremos, físico – mecânica)
+
+Fernando G. Fiore
